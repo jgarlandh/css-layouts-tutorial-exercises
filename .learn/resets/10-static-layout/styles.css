@@ -1,17 +1,5 @@
 /* your code here */
-.secondWrapper {
-	display: flex;
-}
 
-nav {
-	width: 20% !important;
-	margin-right: 5px;
-}
-
-section {
-	width: 80% !important;
-	margin-left: 5px;
-}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
